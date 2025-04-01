@@ -3,9 +3,9 @@
 
 - 👀 My first team project is here [Spry Xplore](https://spryxplore-maxclmnt98-45be53cc7974.herokuapp.com/)
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 👯 My second team project is here [Spry](https://www.spry-app.online/)
+
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/maximeclement/](https://troopl.com/maximeclement/)
 
